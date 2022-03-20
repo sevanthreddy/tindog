@@ -1,0 +1,79 @@
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.rotimg{
+    position: relative;
+}
+#cta{
+    background-color: #ff4c68;
+}
+.bottom{
+    padding: 20px;
+    text-align: center;
+}
+#footer{
+    text-align: center;
+    margin-top: 10px;
+    padding:24px;
+}
+body{
+    font-family: "montserrat","sans-serif";
+}
+#features{
+    padding:7% 10%;
+    position:relative;
+    z-index:1;
+}
+.feature-box{
+    text-align: center;
+    padding: 10px;
+}
+h3{
+    font-family: "montserrat-Bold";
+    font-size: small;
+}
+p{
+    color:grey;
+    font-size: small;
+}
+i{
+    color: #ff4c68;
+}
+i:hover{
+    color: #f4f;
+}
+#testimonials{
+    text-align:center;
+    background-color: #ff4c68;
+    padding:7% 15%;
+}
+h2{
+    font-family: "montserrat-Bold";
+    color:white;
+    
+}
+.testimonial-img{
+    width: 20%;
+    border-radius: 50%;  
+}
+#press{
+    text-align: center;
+    background-color: #ff4c68;    
+}
+.logo{
+    width: 24%;
+    text-align: center;
+    padding:4%;
+}
+.carousel-item{
+    padding:7% 15%;
+}
+
+.card{
+    border-radius:2%;
+    padding: 4px;
+}
